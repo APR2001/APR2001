@@ -1,11 +1,7 @@
-# **Hello, I'm Akalanka Rajapaksha 👋**  
-### *Software Engineering Undergraduate | AI & ML Enthusiast | Data Engineering Enthusiast*
+# **Hello, I'm Akalanka Rajapaksha 👋** ![image alt](https://github.com/APR2001/APR2001/blob/4b1877d6817f21bea332ffd7c26c218f2269b77b/Animation%20-%201736102187594%20(3).gif)
+ 
+### *Software Engineering Undergraduate | AI & ML Enthusiast | Data Engineering Enthusiast*<img 
 
----
-
-![image alt](https://github.com/APR2001/APR2001/blob/4b1877d6817f21bea332ffd7c26c218f2269b77b/Animation%20-%201736102187594%20(3).gif)
-
----
 
 I'm a **Software Engineering** undergraduate at the **Open University of Sri Lanka**, passionate about solving real-world problems with **technology**. I am currently focusing on learning **AI** and **Machine Learning**, while deepening my skills in **Data Engineering**.
 
