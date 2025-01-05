@@ -1,13 +1,52 @@
-<h1 align="center">Hi 👋, I'm Akalanka Rajapaksha</h1>
-<h3 align="center">Building Solution for Tomorrow</h3>
+# **Hello, I'm Akalanka Rajapaksha 👋**  
+### *Software Engineering Undergraduate | AI & ML Enthusiast | Data Engineering Enthusiast*
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apr2001&label=Profile%20views&color=0e75b6&style=flat" alt="apr2001" /> </p>
+---
 
-- 🌱 I’m currently learning **BSE at OUSL**
 
-- 📫 How to reach me **akalankaprabhath392@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
+
+I'm a **Software Engineering** undergraduate at the **Open University of Sri Lanka**, passionate about solving real-world problems with **technology**. I am currently focusing on learning **AI** and **Machine Learning**, while deepening my skills in **Data Engineering**.
+
+🌟 My mission: To join an innovative team where I can apply my knowledge to cutting-edge projects, and **continue growing professionally**.
+
+---
+
+## 📫 **How to Reach Me**
+Feel free to connect with me through the following links:
+
+-  Email me: akalankaprabhath392@gmail.com
+
+  <a href="https://www.linkedin.com/in/akalankarajapaksha-software-engineer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://stackoverflow.com/users/28898584" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
+  </a>
+
+  <a href="https://www.hackerrank.com/akalankaprabhat1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+  </a>
+
+
+---
+
+## 🎧 **Fun Facts**
+- I love listening to **Rock Music** (and anything that suits my mood).
+- I enjoy watching **Films & TV Series**.
+
+---
+
+## 🚀 **GitHub Stats**  
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=APR2001&show_icons=true&count_private=true&theme=radical" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=APR2001&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APR2001&layout=compact&theme=radical" />
+</div>
+
+---
+
+
 
