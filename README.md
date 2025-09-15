@@ -1,15 +1,13 @@
 # **Hello, I'm Akalanka Rajapaksha 👋**
 
  
-### Software Engineering Undergraduate | AI & ML Enthusiast | Data Engineering Enthusiast 
+### Software Engineering Undergraduate
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 
 ![image alt](https://github.com/APR2001/APR2001/blob/36be2d00be87fd9325bb6a4b0660dcede08607bc/Animation%20-%201736106109470.gif)
 
-I'm a **Software Engineering** undergraduate at the **Open University of Sri Lanka**, passionate about solving real-world problems with **technology**. I am currently focusing on learning **AI** and **Machine Learning**, while deepening my skills in **Data Engineering**.
-
-🌟 My mission: To join an innovative team where I can apply my knowledge to cutting-edge projects, and **continue growing professionally**.
+I’m a Software Engineering undergraduate at the **Open University of Sri Lanka**, passionate about solving real-world problems with technology. I’m building expertise in **software development** and **web development** while also gaining hands-on experience with cloud technologies, Docker, and Kubernetes. I’m eager to contribute to innovative projects, learn from industry experts, and grow into a skilled **Software Engineer**.
 
 
 ---
@@ -31,12 +29,6 @@ Feel free to connect with me through the following links:
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
 
-
----
-
-## 🎧 **Fun Facts**
-- I love listening to **Rock Music** (and anything that suits my mood).
-- I enjoy watching **Films & TV Series**.
 
 ---
 
